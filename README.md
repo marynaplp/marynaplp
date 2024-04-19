@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Maryna</h1>
-<h3 align="center">I'm a Software Engineer based in Vancouver, Canada, with experience in building impactful web applications. Previously, I've worked on various companies, including E'Mind Tek Inc(Montreal,Quebec) and PayProGlobal(Toronto, Canada), where I've contributed to projects involving intelligent lockers, machine learning algorithms, and front-end development.</h3>
+<h1 align="left">Hi 👋, I'm Maryna</h1>
+<h3 align="left">I'm a Software Engineer based in Vancouver, Canada, with experience in building impactful web applications. Previously, I've worked on various companies, including E'Mind Tek Inc(Montreal,Quebec) and PayProGlobal(Toronto, Canada), where I've contributed to projects involving intelligent lockers, machine learning algorithms, and front-end development.</h3>
 
 👋 Hey there!
 
 I'm always up for chatting about new job possibilities and cool projects. Here's what I appreciate in a job:
 
-Doing Important Stuff: I appreciate working on projects that make a real difference. Being part of something big gets me excited.
-Being Responsible: I believe in taking charge of my work and making sure I get it done right. I enjoy feeling accountable for what I do.
-Learning New Things: I love learning and trying out new stuff. Being in a place where I can learn more keeps me interested.
-Using Cool Tech: I enjoy using the latest technology to solve problems. It's fun to work with new tools and gadgets.
+-Doing Important Stuff: I appreciate working on projects that make a real difference. Being part of something big gets me excited.
+-Being Responsible: I believe in taking charge of my work and making sure I get it done right. I enjoy feeling accountable for what I do.
+-Learning New Things: I love learning and trying out new stuff. Being in a place where I can learn more keeps me interested.
+-Using Cool Tech: I enjoy using the latest technology to solve problems. It's fun to work with new tools and gadgets.
+-Hybrid Work Environment: I appreciate having the flexibility to work both remotely and in an office setting. This hybrid setup allows me to enjoy the best of both worlds and adapt my work environment to suit my needs.
 
  📫 **Hiring me up!**
  You're welcome to reach out to me via [email](mailto:maryna.pylypchenko@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maryna-pylypchenko-dev/) at your convenience!
