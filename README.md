@@ -5,7 +5,6 @@
 
 I'm always up for chatting about new job possibilities and cool projects. Here's what I appreciate in a job:
 
-
  -I appreciate working on projects that make a real difference. Being part of something big gets me excited.
  
  - I believe in taking charge of my work and making sure I get it done right. I enjoy feeling accountable for what I do.
@@ -17,6 +16,7 @@ I'm always up for chatting about new job possibilities and cool projects. Here's
  - I appreciate having the flexibility to work both remotely and in an office setting. This hybrid setup allows me to enjoy the best of both worlds and adapt my work environment to suit my needs.
 
  📫 **Hiring me up!**
+ 
  You're welcome to reach out to me via [email](mailto:maryna.pylypchenko@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maryna-pylypchenko-dev/) at your convenience!
 
 
