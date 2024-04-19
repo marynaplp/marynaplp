@@ -5,6 +5,7 @@
 
 I'm always up for chatting about new job possibilities and cool projects. Here's what I appreciate in a job:
 
+
  -I appreciate working on projects that make a real difference. Being part of something big gets me excited.
  
  - I believe in taking charge of my work and making sure I get it done right. I enjoy feeling accountable for what I do.
