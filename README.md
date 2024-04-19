@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm MAryns</h1>
+<h1 align="center">Hi 👋, I'm Maryna</h1>
 <h3 align="center">I'm a Software Engineer based in Vancouver, Canada, with experience in building impactful web applications. Previously, I've worked on various companies, including E'Mind Tek Inc(Montreal,Quebec) and PayProGlobal(Toronto, Canada), where I've contributed to projects involving intelligent lockers, machine learning algorithms, and front-end development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marynaplp" alt="marynaplp" /></a> </p>
 
 - 📫 Hiring me up! **You're welcome to reach out to me via email(maryna.pylypchenko@gmail.com) or connect with me on LinkedIn(https://www.linkedin.com/in/maryna-pylypchenko-dev/) at your convenience! maryna.pylypchenko@gmail.com**
 
