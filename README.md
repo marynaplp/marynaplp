@@ -6,6 +6,7 @@
 I'm always up for chatting about new job possibilities and cool projects. Here's what I appreciate in a job:
 
  -Doing Important Stuff: I appreciate working on projects that make a real difference. Being part of something big gets me excited.
+ 
  -Being Responsible: I believe in taking charge of my work and making sure I get it done right. I enjoy feeling accountable for what I do.
  -Learning New Things: I love learning and trying out new stuff. Being in a place where I can learn more keeps me interested.
  -Using Cool Tech: I enjoy using the latest technology to solve problems. It's fun to work with new tools and gadgets.
