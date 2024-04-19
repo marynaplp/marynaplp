@@ -15,7 +15,7 @@ I'm always up for chatting about new job possibilities and cool projects. Here's
 
  - I appreciate having the flexibility to work both remotely and in an office setting. This hybrid setup allows me to enjoy the best of both worlds and adapt my work environment to suit my needs.
 
- 📫 **<span style="font-size:larger";>Hiring me up!</span>** 
+ 📫 **<span style="font-size:larger;">Hiring me up!</span>** 
  
  You're welcome to reach out to me via [email](mailto:maryna.pylypchenko@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maryna-pylypchenko-dev/) at your convenience!
 
